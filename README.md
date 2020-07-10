@@ -5,9 +5,9 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on upskilling.
-- 🌱 I’m currently learning deep learning.
+- 🔭 I’m currently working on upskilling
+- 🌱 I’m currently learning deep learning
 - 💬 Ask me about what I can do for you as a Data Analyst
 - 📫 How to reach me: blurryface94(GitHub)
-- ⚡ Fun fact: I love data.
+- ⚡ Fun fact: I love data
 
